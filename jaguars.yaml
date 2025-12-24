@@ -13,9 +13,11 @@ remote Jaguars - new record1
 roemote record
 로컬 브랜치는 new-branch9
 
+지금 로컬에서 작업중
+
 
 roemote record
 로컬 브랜치는 new-branch10
 
 
-로컬 브랜치 new-branch10 작업중이고 다른사람이 같은 파일을 수정하고 푸쉬했을 경우
+파일 작업중
