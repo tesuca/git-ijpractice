@@ -16,3 +16,6 @@ roemote record
 
 roemote record
 로컬 브랜치는 new-branch10
+
+
+로컬 브랜치 new-branch10 작업중이고 다른사람이 같은 파일을 수정하고 푸쉬했을 경우
